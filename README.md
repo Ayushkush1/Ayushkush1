@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, I’m @ayushkush1
+- 👀 I’m interested in Web Devlopment
+- 🌱 I’m currently learning React.JS
+- 💞️ I’m looking to collaborate on web project
+- 📫 How to reach me ayushkushwaha381@gmail.com
+
+
+## Stats
+<div align="center">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=ayushkush1&theme=darcula&hide_border=true&background=FFFFFF00">
+</div>
+<img src="https://komarev.com/ghpvc/?username=ayushkush1&style=for-the-badge&color=orange">
+
+
+<!---
+naveenrao2k/naveenrao2k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+
