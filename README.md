@@ -29,9 +29,5 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=ayushkush1&style=for-the-badge&color=orange">
 
 
-<!---
-naveenrao2k/naveenrao2k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 
