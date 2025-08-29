@@ -22,12 +22,10 @@ React.js • Next.js • Redux • Tailwind • Node.js • Prisma • PostgreSQ
 
 ## 📊 GitHub Stats  
 <div align="center">
-  
-![Stats](https://github-readme-stats.vercel.app/api?username=ayushkush1&show_icons=true&theme=tokyonight&hide_border=true)  
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=ayushkush1&theme=tokyonight&hide_border=true)  
-
-</div>  
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=ayushkush1&theme=darcula&hide_border=true&background=FFFFFF00">
+</div>
+<img src="https://komarev.com/ghpvc/?username=ayushkush1&style=for-the-badge&color=orange">
 
 ---
 
-📫 **Reach me at:** [ayushkushwaha381@gmail.com](mailto:ayushkushwaha381@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ayush-kushwaha-b3b76915b/)  
+📫 **Reach me at:** [ayushkushwaha381@gmail.com](mailto:ayushkushwaha381@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ayush-kushwaha-b3b76915b/) | [ayushkushwaha.com](https://ayushkushwaha.com)  
