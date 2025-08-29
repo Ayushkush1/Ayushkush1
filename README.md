@@ -6,19 +6,16 @@
 🏆 Winner @ Startup Conclave 2024 (*RemoveQ – Image Optimization SaaS*).  
 🌐 Portfolio: [ayushkushwaha.com](https://ayushkushwaha.com)  
 
----
 
 ## 🔧 Tech Stack  
 React.js • Next.js • Redux • Tailwind • Node.js • Prisma • PostgreSQL • MongoDB • Docker  
 
----
 
 ## 🚀 Projects  
 - [Digital Onboarding Platform](https://digital-onboarding-platform.vercel.app/)  
 - [ProposalPro](http://proposal-tool-ayush-kushwahas-projects.vercel.app/)  
 - [RemoveQ](https://removeq.com/)  
 
----
 
 ## 📊 GitHub Stats  
 <div align="center">
