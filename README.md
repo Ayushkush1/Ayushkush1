@@ -20,21 +20,6 @@ I believe in **ownership, clarity, and impact over just writing code**.
 
 ---
 
-## 💼 Current Roles  
-
-### **Tech Lead — The Gold Technologies (TGT)**  
-- Leading full-cycle development of client & in-house products  
-- Designing system architecture using **Next.js, Node.js, Prisma & PostgreSQL**  
-- Managing deployments, optimizations, and performance improvements  
-- Working directly with clients and stakeholders  
-
-### **Freelance Full Stack Developer**  
-- Delivering scalable SaaS, dashboards, and business platforms  
-- Building conversion-focused UIs and robust backend systems  
-- Long-term support, performance tuning, and feature upgrades  
-
----
-
 ## 🏆 Achievements  
 
 - 🥇 **Winner – Startup Conclave 2024**  
