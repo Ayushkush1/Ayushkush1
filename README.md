@@ -42,31 +42,6 @@ const skills = {
 
 </div>
 
-## 💡 What I Do
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏢 At The Gold Technologies
-- Lead full-stack development teams
-- Design scalable system architectures
-- Mentor developers & conduct code reviews
-- Drive technical decision-making
-
-</td>
-<td width="50%">
-
-### 🎯 As a Freelancer
-- Build SaaS products & dashboards
-- Develop robust APIs & auth systems
-- Design & optimize databases
-- Deliver end-to-end solutions
-
-</td>
-</tr>
-</table>
-
 
 
 ## 🤝 Let's Connect
