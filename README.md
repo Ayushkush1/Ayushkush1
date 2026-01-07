@@ -2,7 +2,7 @@
   
 # 👋 Ayush Kushwaha
 
-### Tech Lead @ The Gold Technologies | Full Stack Developer
+### Tech Lead @ The Gold Technologies | Full Stack MERN Developer
 
 [![Website](https://img.shields.io/badge/Portfolio-ayushkushwaha.com-blue?style=flat-square&logo=google-chrome)](https://ayushkushwaha.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ayush-kushwaha-b3b76915b/)
@@ -107,6 +107,6 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
   
 ### 💻 "Building scalable solutions, one commit at a time"
 
-![Profile Views](https://komarev.com/ghpvc/?username=ayushkushwaha&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Ayushkush1&color=blueviolet&style=flat-square)
 
 </div>
