@@ -16,16 +16,6 @@
 
 Tech Lead and Freelance Developer with **3+ years** of experience building scalable, production-ready web applications. Specialized in full-stack development with expertise in modern JavaScript ecosystem, system design, and team leadership.
 
-## 🚀 Core Expertise
-
-```typescript
-const skills = {
-  frontend: ['React.js', 'Next.js', 'Redux', 'Tailwind CSS'],
-  backend: ['Node.js', 'Express', 'Prisma', 'REST APIs'],
-  databases: ['PostgreSQL', 'MongoDB'],
-  tools: ['Docker', 'Git', 'Vercel', 'AWS']
-}
-```
 
 <div align="center">
 
