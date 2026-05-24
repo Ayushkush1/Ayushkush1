@@ -22,7 +22,7 @@
 
 
 
-<img src="https://streak-stats.demolab.com?user=Ayushkush1&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=484f58&sideNums=ffffff&currStreakNum=ffffff" height="155"/>
+  <img src="https://streak-stats.demolab.com?user=Ayushkush1&hide_border=true&background=0d1117&ring=ff5f26&fire=ff5f26&currStreakLabel=ff5f26&sideLabels=8b949e&dates=484f58&stroke=21262d" height="155"/>
 
 
 
