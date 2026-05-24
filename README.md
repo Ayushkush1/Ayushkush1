@@ -12,42 +12,51 @@
 
 ---
 
-# 🌌 About Me
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<table>
+<tr>
+<td width="60%">
 
-```javascript
+```js
 const ayush = {
-  name: "Ayush Kushwaha",
   role: "Full Stack Developer",
   location: "India",
 
-  portfolio: "https://www.ayushkushwaha.com",
-  github: "https://github.com/Ayushkush1",
-  linkedin: "https://www.linkedin.com/in/ayush-kushwaha-b3b76915b",
-
-  skills: [
-    "React.js",
+  techStack: [
+    "React",
     "Next.js",
     "Node.js",
-    "Express.js",
-    "MongoDB",
+    "TypeScript",
     "PostgreSQL",
     "Prisma",
     "Supabase",
-    "Strapi",
-    "Tailwind CSS",
-    "TypeScript",
-    "JavaScript"
+    "Strapi"
   ],
 
-  currentFocus: "Building scalable SaaS products",
+  currentFocus: [
+    "Modern SaaS Applications",
+    "Premium UI/UX",
+    "Scalable Architectures"
+  ],
+
+  portfolio: "www.ayushkushwaha.com"
 };
 ```
 
-<br/>
-<br/>
+</td>
 
+<td width="40%">
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+
+</div>
+
+</td>
+</tr>
+</table>
 ---
 
 # ⚡ Tech Stack
