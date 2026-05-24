@@ -13,9 +13,6 @@
 ---
 
 
----
-
-
 
 
 
@@ -31,9 +28,7 @@
 
 <img src="https://streak-stats.demolab.com?user=Ayushkush1&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=484f58&sideNums=ffffff&currStreakNum=ffffff" height="155"/>
 
-<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushkush1&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=161b22&area=true&hide_border=true" width="100%"/>
 
 </div>
 ---
