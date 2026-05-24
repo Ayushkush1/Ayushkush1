@@ -1,218 +1,63 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff5f26&height=180&section=header&text=Ayush+Kushwaha&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full+Stack+Developer+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js&descAlignY=56&descAlign=50&fontFamily=Inter" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,25:302b63,50:24243e,75:4e54c8,100:8f94fb&text=Ayush%20Kushwaha&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20React%20•%20Next.js%20•%20Node.js&descAlignY=58"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=800&lines=Full+Stack+Developer;Building+Modern+Web+Applications;React+%7C+Next.js+%7C+Node.js;TypeScript+%7C+Prisma+%7C+Supabase;Always+Learning+New+Things"/>
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=FF5F26&center=true&vCenter=true&width=580&lines=Full+Stack+Developer+%2B+UI%2FUX+Designer;Building+scalable+web+applications;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Based+in+India+%F0%9F%87%AE%F0%9F%87%B3+%E2%80%94+one+commit+at+a+time" alt="Typing SVG" />
+  </a>
 </div>
 
 ---
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
+### About
 
-<table>
-<tr>
-<td width="60%">
+| | |
+|---|---|
+| **Role** | Full Stack Developer |
+| **Location** | India 🇮🇳 |
+| **Website** | [ayushkushwaha.com](https://ayushkushwaha.com) |
+| **Focus** | Scalable web apps & clean UI |
+| **Learning** | System Design · AI Integration |
+| **Open to** | Freelance & Collaborations |
 
-```js
-const ayush = {
-  role: "Full Stack Developer",
-  location: "India",
-
-  techStack: [
-    "React",
-    "Next.js",
-    "Node.js",
-    "TypeScript",
-    "PostgreSQL",
-    "Prisma",
-    "Supabase",
-    "Strapi"
-  ],
-
-  currentFocus: [
-    "Modern SaaS Applications",
-    "Premium UI/UX",
-    "Scalable Architectures"
-  ],
-
-  portfolio: "www.ayushkushwaha.com"
-};
-```
-
-</td>
-
-<td width="40%">
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
-
-</div>
-
-</td>
-</tr>
-</table>
----
-
-# ⚡ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,ts,js,tailwind,mongodb,postgres,prisma,supabase,strapi,docker,firebase,git,github,figma,vscode&perline=6" />
-
-</div>
+> Ship products, not just code. I care about both the engineering and the experience.
 
 ---
 
-# 🚀 Featured Technologies
+### Tech Stack
 
-<div align="center">
+**Frontend**
+`React` `Next.js` `TypeScript` `Tailwind CSS`
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma"/>
-<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase"/>
-<img src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi"/>
+**Backend**
+`Node.js` `Strapi` `REST API`
 
-</div>
+**Database**
+`PostgreSQL` `Prisma` `Supabase`
+
+**Design**
+`Figma` `UI/UX Design` `Framer`
 
 ---
 
-# 📊 GitHub Analytics
+### GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayushkush1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushkush1&theme=radical&hide_border=true&background=0D1117"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayushkush1&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff5f26&icon_color=ff5f26&text_color=c9d1d9&rank_icon=github" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkush1&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff5f26&text_color=c9d1d9" height="160"/>
 </div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Ayushkush1&hide_border=true&background=0d1117&ring=ff5f26&fire=ff5f26&currStreakLabel=ff5f26&sideLabels=8b949e&dates=484f58" height="160"/>
+</div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushkush1&bg_color=0d1117&color=ff5f26&line=ff5f26&point=c9d1d9&area_color=ff5f2612&area=true&hide_border=true" />
 
 ---
 
-# 📈 Most Used Languages
+### Connect
 
-<div align="center">
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff5f26?style=flat-square&logo=vercel&logoColor=white)](https://ayushkushwaha.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/kushwaha_ayush)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-kushwaha-b3b76915b)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkush1&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ayushkush1&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1"/>
-
-</div>
-
----
-
-# 📌 Current Focus
-
-<div align="center">
-
-```txt
-⚡ Building modern full stack applications
-🚀 Learning scalable architectures
-🎨 Creating premium UI/UX experiences
-🔥 Exploring animations and interactions
-💡 Open for freelance & collaborations
-```
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.ayushkushwaha.com">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Ayushkush1">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ayush-kushwaha-b3b76915b">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:ayushkushwaha381@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/awsm_ayush_/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 🎵 Spotify Playing
-
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31v2m4l6x4xw4zjv7m4d3m4x4m4u&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=8b5cf6&bar_color_cover=false"/>
-
-</div>
-
----
-
-# 👀 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Ayushkush1&label=PROFILE+VIEWS&color=8b5cf6&style=for-the-badge"/>
-
-</div>
-
----
-
-# ✨ Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 💻 “Code. Create. Innovate.”
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:8f94fb,25:4e54c8,50:24243e,75:302b63,100:0f0c29&section=footer"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff5f26&height=100&section=footer"/>
