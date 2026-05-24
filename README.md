@@ -20,18 +20,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ayushkush1&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" height="155"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkush1&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="155"/>
 
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Ayushkush1&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=484f58&sideNums=ffffff&currStreakNum=ffffff" height="155"/>
 
 
 
 </div>
----
 
 ## 💼 Professional Summary
 
